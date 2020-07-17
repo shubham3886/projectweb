@@ -1,6 +1,7 @@
-# Tecno NEWS
+# ShubhamTech
 
-desc
+ShubhamTech Web Application is useful for found all new updates about Android, Web Application and Database.
+
 
 
 ## Languages and Framework
